@@ -8,12 +8,3 @@
   --team-background: #f5f4fa;
   --main-background: #fff;
 }
- .link {
-  color: var(--footer-background);
-}
-.team {
-  color: var(--team-background);
-}
-.hero {
-  color: var(--footer-background);
-}
